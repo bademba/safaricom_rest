@@ -1,0 +1,5 @@
+com/brian/safaricom/model/Employee.class
+com/brian/safaricom/db/DBConnector.class
+com/brian/safaricom/runner/Runner.class
+com/brian/safaricom/model/EmployeeResource.class
+com/brian/safaricom/model/Education.class
